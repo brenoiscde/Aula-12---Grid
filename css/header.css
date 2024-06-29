@@ -1,3 +1,45 @@
 .header{
-    height: 52px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu-header{
+    width: 30px;
+    margin:15px;
+}
+.barra-pesquisa input{
+    width: 750px;
+    border: 1px solid;
+    border-radius: 20px;
+    height: 35px;
+    font-size:20px;
+    padding: 10px;
+}
+
+.img-microfone{
+    width: 25px;
+    margin:15px;
+}
+
+
+.img-sino{
+    position: relative;
+    right: 30px;
+    width: 30px;
+    margin:15px;
+}
+.meio{
+    display: flex;
+    align-items: center;
+}
+
+.photo-perfil{
+    position: relative;
+    right: 4px;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    padding: 2px 1px 2px;
 }

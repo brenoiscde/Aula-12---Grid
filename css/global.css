@@ -23,6 +23,11 @@ body{
     background-color: yellow;
     grid-area: menu;
 }
+.img-lupa{
+    position: relative;
+    right: 20px;
+    padding-top: 2px;
+}
 
 .main{
     background-color: green;
